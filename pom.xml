@@ -11,7 +11,7 @@
 
 	<groupId>org.twuni</groupId>
 	<artifactId>common-net</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>Networking API</name>

@@ -18,8 +18,8 @@
 	<description>This library provides a foundation for network services.</description>
 
 	<scm>
-		<developerConnection>scm:git:ssh:git@github.com:twuni/common-net.git</developerConnection>
-		<connection>scm:git:ssh:git@github.com:twuni/common-net.git</connection>
+		<developerConnection>scm:git:git@github.com:twuni/common-net.git</developerConnection>
+		<connection>scm:git:git@github.com:twuni/common-net.git</connection>
 		<url>scm:git:https://twuni@github.com/twuni/common-net.git</url>
 	</scm>
 
@@ -93,7 +93,7 @@
 		<dependency>
 			<groupId>org.twuni</groupId>
 			<artifactId>common</artifactId>
-			<version>0.1.0-SNAPSHOT</version>
+			<version>0.1.0</version>
 		</dependency>
 
 	</dependencies>
